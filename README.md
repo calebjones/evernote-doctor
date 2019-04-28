@@ -32,7 +32,7 @@ recover-evernote-enml.sh > file.enex
 ```
 
 then import the `file.enex` file into evernote. The recovered notes will have a random UUID title, 
-and the export file should contain notes across all journals (online or local-only). The user will 
+and the export file should contain notes across all notebooks (online or local-only). The user will 
 need to determine themselves (based on note content) which notes to recover once imported. Depending 
 on number of notes an note sizes, this export process may take some time. Watch the 'file.enex' 
 file (from above) which will continuously grow as the export runs.
