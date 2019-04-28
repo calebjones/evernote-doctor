@@ -44,5 +44,11 @@ Evernote from opening.
 WARNING: Evernote's instructions may require deleting enml files this script uses to recover notes 
 from. This script should be run before any destructive action is taken on Evernote files on disk. 
 It is best to make a full backup of Evernote files before taking any destructive action on files.
-This script can recover enml files from any location by configuring the 'find_location' parameter 
+This script can recover enml files from any location by configuring the `find_location` parameter 
 in the script.
+
+# Acknowledgements
+
+[Elephant icon](https://thenounproject.com/search/?q=elephant&i=1742920) by Emily Cutting and 
+[IV icon](https://thenounproject.com/search/?q=iv&i=529693) by ProSymbols from the 
+[Noun Project](https://thenounproject.com/).
