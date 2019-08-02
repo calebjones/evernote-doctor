@@ -28,7 +28,7 @@ See LICENSE for more usage or restriction information.
 To use, run:
 
 ```
-recover-evernote-enml.sh > file.enex
+./recover-evernote-enml.sh > file.enex
 ```
 
 then import the `file.enex` file into evernote. The recovered notes will have a random UUID title, 
